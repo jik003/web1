@@ -8,4 +8,5 @@
 
 ### I enrolled bachelor of science at University of California, San Diego in southern California area since 2019.
 ### This is my last class at UCSD as undergraduate student!
-###
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
