@@ -1,5 +1,5 @@
-### <a id="JISU KIM">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+### <a id="waving">
+![JISU KIM](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### Hello, 안녕하세요!!
 
