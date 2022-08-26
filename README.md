@@ -25,4 +25,5 @@ Back in time, I made the early decision to major in STEM in ninth grade, I did n
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo= TensorFlow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo= GitHub&logoColor=white"/></a>&nbsp
 </p>
+                                                                                                      
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
