@@ -29,4 +29,4 @@ Back in time, I made the early decision to major in STEM in ninth grade, I did n
 </p>
                                                                                                       
                                                                                                      
-![Footer]<p align="center"> (https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) <\p>
+<p align="center"> ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) <\p>
