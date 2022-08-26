@@ -2,7 +2,7 @@
 
 <p align="center”>안녕하세요!🇰🇷->HELLOW!🇺🇸</p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<P align="center">🛠 Tech Stack 🛠</P>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo= MySQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo= Linux&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo= HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo= HTML&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo= TensorFlow&logoColor=white"/></a>&nbsp 
