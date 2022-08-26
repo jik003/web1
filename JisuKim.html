@@ -72,6 +72,53 @@
 
 </head>
 
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <style>
+      .dropdown > ul > li {
+        display: inline-block;
+        position: relative;
+      }
+      .dropdown > ul > li > ul {
+        position: absolute;
+        list-style-type: none;
+        padding-left: 0px;
+        display: none;
+      }
+      .dropdown > ul > li:hover > ul {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="dropdown">
+      <ul>
+        <li>
+          <a href="#">PHONE NUMBER</a>
+	  <ul>
+            <li><a href="#">(206)669.5817</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#">EMAIL ADDRESS</a>
+          <ul>
+            <li><a href="#">jik003@ucsd.edu</a></li>
+            <li><a href="#">jisu96sema@gmail.com</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#">HOME ADDRESS</a>
+          <ul>
+            <li><a href="#">4085 Nobel drive, San Diego, CA, 92122</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </body>
+</html>
+
 <!-- contact -->
 <head>
 <style>
@@ -84,7 +131,7 @@ a.ex5:hover, a.ex5:active {text-decoration: underline;}
 </style>
 </head>
 <body>
-<p><a class="ex1", "ex2", "ex4">CONTACT</a></p>
+<p><a class="ex2", "ex4">CONTACT</a></p>
 </body>
 
 <!-- Bio info -->
