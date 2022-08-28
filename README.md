@@ -1,7 +1,6 @@
 ### ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=300&section=header&text=JISU%20KIM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20WILL%20INTRODUCE%20MYSELF🦈%20FOLLOW%20ME!&descAlignY=51&descAlign=62)
 
-<html>
-<div style="width:50%">
+<div class="yourWidth">
 <br>
 <p align="center"> 안녕하세요!🇰🇷->HELLOW!🇺🇸 </p>
 <p align="center"> This is Jisu Kim </p>
@@ -31,7 +30,10 @@ Back in time, I made the early decision to major in STEM in ninth grade, I did n
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo= GitHub&logoColor=white"/>
 </p>
 </div>
-</html>
 
+.yourWidth
+{
+width: 80%
+}
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=footer)
