@@ -18,16 +18,16 @@ Back in time, I made the early decision to major in STEM in ninth grade, I did n
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo= MySQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo= Linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo= MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo= Linux&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo= HTML&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo= TensorFlow&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo= GitHub&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo= HTML&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo= TensorFlow&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo= GitHub&logoColor=white"/>
 </p>
 
 
