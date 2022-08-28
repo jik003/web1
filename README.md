@@ -1,5 +1,7 @@
 ### ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=300&section=header&text=JISU%20KIM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20WILL%20INTRODUCE%20MYSELF🦈%20FOLLOW%20ME!&descAlignY=51&descAlign=62)
 
+<!DOCTYPE html>
+
 <div class="yourWidth">
 <br>
 <p align="center"> 안녕하세요!🇰🇷->HELLOW!🇺🇸 </p>
@@ -31,10 +33,9 @@ Back in time, I made the early decision to major in STEM in ninth grade, I did n
 </p>
 </div>
 
-<style>
-.yourWidth{
+yourWidth{
 width: 80%;
 }
-</style>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=footer)
