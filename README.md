@@ -1,6 +1,6 @@
 ### ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=300&section=header&text=JISU%20KIM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20WILL%20INTRODUCE%20MYSELF🦈%20FOLLOW%20ME!&descAlignY=51&descAlign=62)
 
-<div width=300%>  </div>
+<div width=300%> test </div>
 <br>
 <p align="center"> 안녕하세요!🇰🇷->HELLOW!🇺🇸 </p>
 <p align="center"> This is Jisu Kim </p>
