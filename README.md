@@ -33,7 +33,7 @@ Back in time, I made the early decision to major in STEM in ninth grade, I did n
 
 .yourWidth
 {
-width: 80%
+width: 80%;
 }
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=footer)
